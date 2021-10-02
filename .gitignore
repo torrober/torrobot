@@ -1,5 +1,7 @@
 # node
 /node_modules
+# utils
+.ffmpeg.exe
 # Logs
 logs
 *.log
